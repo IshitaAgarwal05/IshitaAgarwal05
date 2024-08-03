@@ -1,7 +1,6 @@
 <h1 align="center">Hey peeps 👋, I'm Ishita</h1>
 <h3 align="center">A budding passionate computer science professional from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishitaagarwal05" alt="ishitaagarwal05" /></a> </p>
 
 - 🌱 I’m currently diving deep into the fields of **Artificial Intelligence & Machine Learning.**
 
