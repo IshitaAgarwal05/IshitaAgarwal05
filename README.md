@@ -10,7 +10,7 @@
 
 - 💬 Feel free to ask me about **Python, DSA, OOP, Artificial Intelligence & Machine Learning**
 
-- 📫 Reach out to me via my **[Mail id](2005.agarwal.ishita@gmail.com)**
+- 📫 Reach out to me via my **[Mail id](mailto:2005.agarwal.ishita@gmail.com?subject=Heyy&body=Hello)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
