@@ -4,17 +4,17 @@
 
 - 🌱 I’m currently diving deep into the fields of **Artificial Intelligence & Machine Learning.**
 
-- 👨‍💻 Know more about me at [https://jklujaipur-my.sharepoint.com/personal/ishitaagarwal_jklu_edu_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fishitaagarwal%5Fjklu%5Fedu%5Fin%2FDocuments%2FIshita%2DAgarwal%2DResume%2DFull%2Epdf&parent=%2Fpersonal%2Fishitaagarwal%5Fjklu%5Fedu%5Fin%2FDocuments&ga=1](https://jklujaipur-my.sharepoint.com/personal/ishitaagarwal_jklu_edu_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fishitaagarwal%5Fjklu%5Fedu%5Fin%2FDocuments%2FIshita%2DAgarwal%2DResume%2DFull%2Epdf&parent=%2Fpersonal%2Fishitaagarwal%5Fjklu%5Fedu%5Fin%2FDocuments&ga=1)
+- 👨‍💻 Know more about me, [Explore my Resume](https://jklujaipur-my.sharepoint.com/personal/ishitaagarwal_jklu_edu_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fishitaagarwal%5Fjklu%5Fedu%5Fin%2FDocuments%2FIshita%2DAgarwal%2DResume%2DFull%2Epdf&parent=%2Fpersonal%2Fishitaagarwal%5Fjklu%5Fedu%5Fin%2FDocuments&ga=1)
 
-- 📝 I regularly write articles on [https://superiorishitaagarwal.wordpress.com](https://superiorishitaagarwal.wordpress.com)
+- 📝 I jot down my thoughts over [My Blog](https://superiorishitaagarwal.wordpress.com)
 
 - 💬 Feel free to ask me about **Python, DSA, OOP, Artificial Intelligence & Machine Learning**
 
-- 📫 How to reach me **2005.agarwal.ishita@gmail.com**
+- 📫 Reach out to me via my **[Mail id](2005.agarwal.ishita@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ishita agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishita agarwal" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ishita-agarwal-3992b6249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishita agarwal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
