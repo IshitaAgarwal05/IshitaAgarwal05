@@ -1,10 +1,10 @@
 <h1 align="center">Hey peeps 👋, I'm Ishita</h1>
-<h3 align="center"> An budding computer science professional and machine learning enthusiast from India with a passion for mathematics and writing. Constantly seeking new opportunities to broaden my knowledge and skills. Possess expertise in algorithms along with strong proficiency in coding languages like C and Python. </h3>
+<h3 align="center"> A budding computer science professional and machine learning enthusiast from India with a passion for mathematics and writing. Constantly seeking new opportunities to broaden my knowledge and skills. Possess expertise in algorithms along with strong proficiency in coding languages like C and Python. </h3>
 
 - 🌱 I’m currently diving deep into the fields of **Artificial Intelligence & Machine Learning.**
+- 💬 Feel free to ask me about **Python, DSA, OOP, Artificial Intelligence & Machine Learning**
 - 👨‍💻 Know more about me, [Explore my Resume](https://jklujaipur-my.sharepoint.com/:b:/g/personal/ishitaagarwal_jklu_edu_in/ES9f9NHH-rlGliYJN-RDau4BzD_ovjs4Wi0Sy16K3xUy9g?e=nJM6cC)
 - 📝 I jot down my thoughts over [My Blog](https://superiorishitaagarwal.wordpress.com)
-- 💬 Feel free to ask me about **Python, DSA, OOP, Artificial Intelligence & Machine Learning**
 - 📫 Reach out to me via my [Mail id](mailto:2005.agarwal.ishita@gmail.com?subject=Heyy&body=Hello)
 
 <h3 align="left">Connect with me:</h3>
