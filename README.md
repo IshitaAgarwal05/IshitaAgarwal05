@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently diving deep into the fields of **Artificial Intelligence & Machine Learning.**
 
-- 👨‍💻 Know more about me, [Explore my Resume](https://jklujaipur-my.sharepoint.com/personal/ishitaagarwal_jklu_edu_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fishitaagarwal%5Fjklu%5Fedu%5Fin%2FDocuments%2FIshita%2DAgarwal%2DResume%2DFull%2Epdf&parent=%2Fpersonal%2Fishitaagarwal%5Fjklu%5Fedu%5Fin%2FDocuments&ga=1)
+- 👨‍💻 Know more about me, [Explore my Resume](https://jklujaipur-my.sharepoint.com/:b:/g/personal/ishitaagarwal_jklu_edu_in/ES9f9NHH-rlGliYJN-RDau4BzD_ovjs4Wi0Sy16K3xUy9g?e=nJM6cC)
 
 - 📝 I jot down my thoughts over [My Blog](https://superiorishitaagarwal.wordpress.com)
 
