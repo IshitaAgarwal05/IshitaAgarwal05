@@ -1,6 +1,6 @@
 <h1 align="center">Hey peeps 👋, I'm Ishita</h1>
 
-<p> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09C6F7&center=true&vCenter=true&lines=Computer+Science+Undergrad;ML+%26+AI+Enthusiast;Ardent+Blogger;Tech-Savvy;Quick+Learner" alt="Typing SVG" /></a> </p>
+<p> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=100&size=40&pause=1000&color=09C6F7&center=true&vCenter=true&width=1000&lines=Computer+Science+Undergrad;ML+%26+AI+Enthusiast;Ardent+Blogger;Tech-Savvy;Quick+Learner" alt="Typing SVG" /></a> </p>
 
 <br>
 
