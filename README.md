@@ -1,5 +1,12 @@
 <h1 align="center">Hey peeps 👋, I'm Ishita</h1>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=#0000FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Undergrad;ML+&+AI+Enthusiast;Ardent+Blogger;Tech-Savvy;Quick+Learner"></a>
+</p>
+
+<br>
+
+
 - 📚 Semester Exchange Student at **IIIT Hyderabad**.
 - 🏫 Computer Science Undergrad at **JK Lakshmipat University**, India.
 - 🤖 AI & ML Enthusiast.
@@ -22,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishitaagarwal05&show_icons=true&theme=dark&title_color=7abfff&text_color=ffffff&locale=en" alt="ishitaagarwal05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishitaagarwal05&" alt="ishitaagarwal05" /></p>
-
