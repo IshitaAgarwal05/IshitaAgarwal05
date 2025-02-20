@@ -4,7 +4,8 @@
 
 <br>
 
-
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+<br>
 - 🏫 Computer Science Undergrad at **JK Lakshmipat University**, India.
 - 📚 Former Semester Exchange Student at **IIIT Hyderabad**.
 - 🤖 AI & ML Enthusiast.
@@ -12,9 +13,9 @@
 - 🌱 Currently diving deep into the fields of **Artificial Intelligence & Machine Learning.**
 - 💬 Feel free to ask me about **Python, DSA, OOP, Artificial Intelligence & Machine Learning**
 - ✨ Constantly seeking new opportunities to broaden my knowledge and skills.
-- 👨‍💻 Know more about me, [Explore my Resume](https://jklujaipur-my.sharepoint.com/:b:/g/personal/ishitaagarwal_jklu_edu_in/ES9f9NHH-rlGliYJN-RDau4BzD_ovjs4Wi0Sy16K3xUy9g?e=nJM6cC)
+- 👨‍💻 Know more about me, [Explore my Resume](https://jklujaipur-my.sharepoint.com/:b:/g/personal/ishitaagarwal_jklu_edu_in/Eaf3ZlzFH6ZFoUy3nnCk-9IB6glZvf7uocDR8ZflIOGVLw?e=cGyH00)
 - 📝 I jot down my thoughts over [My Blog](https://superiorishitaagarwal.wordpress.com)
-- 📫 Reach out to me via my [Mail id](mailto:2005.agarwal.ishita@gmail.com?subject=Heyy&body=Hello)
+- 📫 Reach out to me via my [Mail id](mailto:2005.agarwal.ishita@gmail.com?subject=Heyy&body=Greetings)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +27,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishitaagarwal05&show_icons=true&theme=dark&title_color=7abfff&text_color=ffffff&locale=en" alt="ishitaagarwal05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishitaagarwal05&" alt="ishitaagarwal05" /></p>
+
+
+<!--- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishitaagarwal05&" alt="ishitaagarwal05" /></p> --->
+
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaAgarwal05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=IshitaAgarwal05&theme=dark&hide_border=false)<br/>
