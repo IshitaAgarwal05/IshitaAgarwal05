@@ -7,6 +7,7 @@
 
 - 🏫 Computer Science Undergrad at **JK Lakshmipat University**, India.
 - 📚 Former Semester Exchange Student at **IIIT Hyderabad**.
+- 📚 Cleared GATE DS and CS 2025.
 - 🤖 AI & ML Enthusiast.
 - ❤️‍🔥 Passion for Mathematics & Writing.
 - 🌱 Currently diving deep into the fields of **Artificial Intelligence & Machine Learning.**
