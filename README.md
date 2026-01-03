@@ -13,6 +13,7 @@
 - 🌱 Currently diving deep into the fields of **Artificial Intelligence & Machine Learning.**
 - 💬 Feel free to ask me about **Python, DSA, OOP, Artificial Intelligence & Machine Learning**
 - ✨ Constantly seeking new opportunities to broaden my knowledge and skills.
+- ✨ Check out my [Portfolio](https://portfolio-ish.vercel.app/)
 - 👨‍💻 Know more about me, [Explore my Resume](https://jklujaipur-my.sharepoint.com/:b:/g/personal/ishitaagarwal_jklu_edu_in/Eaf3ZlzFH6ZFoUy3nnCk-9IB6glZvf7uocDR8ZflIOGVLw?e=cGyH00)
 - 📝 I jot down my thoughts over [My Blog](https://superiorishitaagarwal.wordpress.com)
 - 📫 Reach out to me via my [Mail id](mailto:2005.agarwal.ishita@gmail.com?subject=Heyy&body=Greetings)
